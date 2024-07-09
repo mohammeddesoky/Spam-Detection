@@ -1,3 +1,4 @@
+# **Spam Detection**
 * **Overview** 
 
     This project is designed to detect whether a given message or email is spam or not using various machine learning algorithms. The project utilizes Natural Language Processing (NLP)       techniques to preprocess the text data and multiple machine learning models to classify the messages. The final application includes a graphical user interface (GUI) built with Tkinter     for ease of use.
